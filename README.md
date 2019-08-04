@@ -4,7 +4,7 @@
 Spam detection is a beginner’s example of document classification task which involves classifying an email as spam or non-spam (a.k.a. ham) mail.
 
 # Steps
-Preparing the text data.
+*Preparing the text data.
 Creating word dictionary.
 Feature extraction process.
 Training the classifier.
