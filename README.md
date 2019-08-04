@@ -1,4 +1,4 @@
-# Email_Spam_Classifier
+###Email_Spam_Classifier
 
 # An implementation with Python and Scikit-learn
 Spam detection is a beginner’s example of document classification task which involves classifying an email as spam or non-spam (a.k.a. ham) mail.
